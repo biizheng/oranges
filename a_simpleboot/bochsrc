@@ -4,7 +4,7 @@
 megs:32
 
 #filename of ROM image
-romimage:file=/usr/local/share/bochs/BIOS-bochs-latest,address=0xfffe0000
+romimage:file=/usr/local/share/bochs/BIOS-bochs-latest
 vgaromimage:file=/usr/local/share/bochs/VGABIOS-elpin-2.40
 
 #floppya:1_44=/home/buildos/Documents/buildos/chapter/a.img,status=inserted
