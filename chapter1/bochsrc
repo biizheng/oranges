@@ -7,7 +7,8 @@ megs:32
 romimage:file=/usr/local/share/bochs/BIOS-bochs-latest,address=0xfffe0000
 vgaromimage:file=/usr/local/share/bochs/VGABIOS-elpin-2.40
 
-floppya:1_44=/home/buildos/Documents/buildos/chapter/a.img,status=inserted
+#floppya:1_44=/home/buildos/Documents/buildos/chapter/a.img,status=inserted
+floppya:1_44=a.img,status=inserted
 
 boot:floppy
 
